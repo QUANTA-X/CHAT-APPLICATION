@@ -23,7 +23,7 @@ Follow these instructions to get your chat app up and running on your local devi
 Copy the repository to your local machine using the following command:
 
 ```
-git clone <repository-https://github.com/QUANTA-X/CHAT-APPLICATION.git>
+git clone https://github.com/QUANTA-X/CHAT-APPLICATION.git
 
 ```
 
