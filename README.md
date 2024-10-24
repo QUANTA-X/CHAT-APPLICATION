@@ -1,4 +1,4 @@
-markdown
+
 
 ## ChatApp
 
@@ -63,10 +63,10 @@ java ChatClient
 A welcome message will be displayed asking the user to say hello.
 
 After the server and clients are running, you can start writing messages in each client window. Messages sent from one client will be broadcast to all other connected clients. Each message will begin with the sender's User ID to identify them.
-Example
+### Example
 
 Here is an example of how the application might look in the terminal:
-Server Output
+**Server Output**
 
 ```
 
@@ -78,7 +78,7 @@ User2 has joined the chat.
 Received a message from User1: hey!
 Received a message from User2: hi!!
 ```
-Client Output
+**Client Output**
 
 ```
 
@@ -86,17 +86,12 @@ Welcome to the chat room! Say hello to your friends!
 User1: hey!
 User2: hi!!
 ```
-Troubleshooting
+**Troubleshooting**
 
 If you encounter issues, please check the following:
 
     Ensure that the server is running before clients start.
     Verify that the server and clients use the correct and accessible IP address.
     Check your firewall settings to allow the application to use the specified port.
-```
 
 
-### Instructions for Use
-- **Copy the Markdown**: You can easily copy any section without extra formatting issues.
-- **Update Repository URL**: Don’t forget to replace `<repository-url>` with your actual repository URL.
-```
